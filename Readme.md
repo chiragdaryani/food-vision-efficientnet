@@ -1,4 +1,4 @@
-# Food Vision Image Classification using EfficientNet CNN Model
+# Food Vision Image Classification using EfficientNet CNN Model through Transfer Learning
 
 In this project, our aim is to construct neural network models (using transfer learning) to perform classification of images into one of the 101 categories as defined in the Food101 dataset.
 
