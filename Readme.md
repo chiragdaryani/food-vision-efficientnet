@@ -2,7 +2,7 @@
 
 In this project, our aim is to construct neural network models to perform classification of images into one of the 101 categories as defined in the Food101 dataset.
 
-Our goal is to beat the original Food101 paper's results with 10% of data.
+Our goal is to beat the original Food101 paper's results with only 10% of data.
 
 We're going to perform the following with TensorFlow:
 
